@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangDaeSu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Langs" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KangDaeSu&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KangDaeSu&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" height="165" />
 </p>
 
 ---
