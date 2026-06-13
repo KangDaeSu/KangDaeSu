@@ -92,7 +92,7 @@
 ## 📫 Contact & Network
 
 <p align="left">
-  <a href="www.linkedin.com/in/강대수-18b745284" target="_blank">
+  <a href="https://www.linkedin.com/in/%EA%B0%95%EB%8C%80%EC%88%98-18b745284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/daesu.kang/" target="_blank">
