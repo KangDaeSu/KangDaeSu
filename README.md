@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=30A14E&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Spring+Boot;Data+Analysis+with+Python;Docker+%26+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=30A14E&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%26+Spring+Boot+Specialist;Data+Analysis+with+Python;Docker+%26+AWS+Cloud+Infrastructure;JavaScript+%26+SQL+Management" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,9 +14,11 @@
 안녕하세요! 효율적이고 안정적인 백엔드 시스템을 설계하는 **강대수**입니다.  
 복잡한 데이터 속에서 가치 있는 비즈니스 로직을 추출하고, 이를 견고한 서비스로 아키텍처화하는 과정에 몰두하고 있습니다.
 
-- 🚀 현재 **Java**와 **Spring Boot**를 활용한 견고한 백엔드 서버 구축에 집중하고 있습니다.
-- 📊 **Python**과 **Jupyter Notebook**을 활용해 데이터를 전처리하고 분석하는 파이프라인을 다룹니다.
-- 🐳 **Docker**를 활용한 컨테이너화 및 안정적인 배포 환경 구성에 관심이 많습니다.
+- 🚀 현재 **Java**와 **Spring Boot**를 활용한 견고한 백엔드 아키텍처를 구축하는 데 집중하고 있습니다.
+- 🗄️ 대용량 데이터를 안정적으로 관리하기 위한 **SQL** 쿼리 최적화와 데이터베이스 설계에 관심이 많습니다.
+- 🌐 **JavaScript**를 이용한 웹 프론트엔드 요소와의 유연한 데이터 연동을 고려합니다.
+- 📊 **Python**과 **Jupyter Notebook** 파이프라인을 활용해 데이터를 수집하고 분석합니다.
+- ☁️ **AWS** 인프라 환경 위에서 **Docker** 컨테이너를 기반으로 안정적이고 효율적인 배포 체계를 학습하고 적용합니다.
 
 ---
 
@@ -29,15 +31,26 @@
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 </p>
 
+### 🗄️ Database & Web
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
 ### 📈 Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### 🐳 DevOps & Tools
+### ☁️ DevOps & Cloud Infrastructure
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### 🔧 VCS & Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -84,6 +97,12 @@
   </a>
   <a href="https://your-velog-or-tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B384?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
