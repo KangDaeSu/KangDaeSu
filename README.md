@@ -70,22 +70,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🍃 [springboot-twitter](https://github.com/KangDaeSu/springboot-twitter)
-> **Spring Boot 기반 엔드포인트 분산 및 대용량 트래픽 대비 SNS 백엔드 아키텍처**
-- **역할 및 특징:** JWT 및 Spring Security를 이용한 보안 계층 정립, 복잡한 다대다 관계형 데이터베이스 쿼리 최적화
-- **사용 기술:** Java, Spring Boot, Spring Security, MySQL
-
-### 📺 [NoblyTV](https://github.com/KangDaeSu/NoblyTV)
-> **Jupyter Notebook을 활용한 스트리밍 데이터 분석 및 전처리**
-- **역할 및 특징:** 대용량 스트리밍 로그 데이터의 패턴 분석 및 시각화 도출
-- **사용 기술:** Python, Jupyter Notebook, Pandas
-
-### 🧠 [Donggle](https://github.com/KangDaeSu/Donggle)
-> **데이터 크롤링 및 통계 분석 파이프라인 구축 모델**
-- **역할 및 특징:** 오픈 데이터 결합을 통한 실시간 트렌드 분석 자동화 구현
-- **사용 기술:** Python, Jupyter Notebook, Matplotlib
 
 ---
 
